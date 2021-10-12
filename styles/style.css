@@ -35,6 +35,7 @@ body {
 	font-variant: small-caps;
 	font-weight: bolder;
 	text-shadow: 2px 2px 2px gray;
+	font-family: comic-sans;
 }
 
 #header h2 {
